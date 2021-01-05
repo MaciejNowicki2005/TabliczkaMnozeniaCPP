@@ -1,0 +1,22 @@
+
+     
+Faza III.
+1. Przy uruchomieniu aplikacji pytamy o trudnosc:
+   Wybor Trudnosci (L - Latwy, T-Trudny).
+   Jezeli uzytkownik poda cos innego wypisujemy ZLY Wybor i powtarzamy pytanie.
+
+2. Jezeli wybral trudny to aplikacja dziala jak do tej pory.
+
+3. Jezeli wybral latwy to aplikacja zadaje pytanie i cztery odpowiedzi:
+
+   Ile to jest 3 x 3?
+   a) 3 b) 4, c) 5, d) 9
+ 
+   Uzytkownik podaje odpowiedz a lub b lub c lud d
+   Jezeli wpisze cos innego, wypiszujemy Podaj a lub b lub c lub d
+   i powtarzamy pytanie (takiej odpowiedzi nie traktujemy jako bledna).
+
+Faza IV.
+   3. Jezeli uzytkwonik przebrnie przez wszystkie pytania to zapisujemy jego wnik do pliku w formacie:
+      Data -> Uzytkownik -> Liczba poprawnych liczba zlych.
+   4. na otwarcie aplikacji czytamy te wyniki.

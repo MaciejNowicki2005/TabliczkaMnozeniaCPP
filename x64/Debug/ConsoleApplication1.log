@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+C:\Programowanie\C++\TabliczkaMnozeniaCPP\ConsoleApplication1.cpp(16,13): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  ConsoleApplication1.vcxproj -> C:\Programowanie\C++\TabliczkaMnozeniaCPP\x64\Debug\ConsoleApplication1.exe

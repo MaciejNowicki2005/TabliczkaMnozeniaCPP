@@ -1,0 +1,2 @@
+C:\Programowanie\C++\TabliczkaMnozeniaCPP\x64\Debug\ConsoleApplication1.exe
+C:\Programowanie\C++\TabliczkaMnozeniaCPP\x64\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,2 @@
+C:\Users\macie\OneDrive\Pulpit\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\macie\OneDrive\Pulpit\ConsoleApplication1\Debug\ConsoleApplication1.pdb
